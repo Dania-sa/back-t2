@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fname": "dania",
+    "lname": "alsawaf",
+    "age": 26,
+    "city": "homs"
+  },
+  {
+    "id": 2,
+    "fname": "islam",
+    "lname": "muhammad",
+    "age": 26,
+    "city": "mansoura"
+  },
+  {
+    "id": 3,
+    "fname": "alaa",
+    "lname": "alali",
+    "age": 28,
+    "city": "damascus"
+  },
+  {
+    "id": 5,
+    "fname": "nour",
+    "lname": "alsebai",
+    "age": 27,
+    "city": "homs"
+  },
+  {
+    "id": 7,
+    "fname": "lama",
+    "lname": "ahmad",
+    "age": 23,
+    "city": "hama"
+  }
+]
